@@ -1,5 +1,5 @@
 # 加载url管理器、下载器、解析器、输出器
-from baike_spider import url_manager, html_downloader, html_parser, html_outputer
+from frank_crawler.baike import url_manager, html_downloader, html_parser, html_outputer
 
 
 class SpiderMain(object):
